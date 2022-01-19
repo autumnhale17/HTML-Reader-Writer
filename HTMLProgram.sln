@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTMLReadWrite", "HTMLReadWrite.csproj", "{28CCF2A7-BED8-4059-AC44-F4203C7974A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28CCF2A7-BED8-4059-AC44-F4203C7974A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CCF2A7-BED8-4059-AC44-F4203C7974A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CCF2A7-BED8-4059-AC44-F4203C7974A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CCF2A7-BED8-4059-AC44-F4203C7974A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ECBAB30-3965-4F5D-9586-FF26C15690C2}
+	EndGlobalSection
+EndGlobal
