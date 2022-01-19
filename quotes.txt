@@ -1,0 +1,8 @@
+TITLE: Some Quotes
+HEADING: Quote 1: Albert Einstein
+PARAGRAPH: The true sign of intelligence is not knowledge but imagination.
+HEADING: Quote 2: Ralph Waldo Emerson
+PARAGRAPH: Do not go where the path may lead, 
+PARAGRAPH: go instead where there is no path and leave a trail. 
+HEADING: Quote 3: Helen Keller
+PARAGRAPH: Life is either a daring adventure or nothing at all. 
